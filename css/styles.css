@@ -1,0 +1,21 @@
+.container {
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.navbar {
+    background-color: #a0d4f5;
+}
+
+.dropdown-toggle {
+    background-color: #a0d4f5 !important;
+}
+
+.navbar-brand {
+    height: fit-content;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+ }
