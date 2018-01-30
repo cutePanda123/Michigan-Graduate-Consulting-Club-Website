@@ -4,8 +4,13 @@
     padding-right: 0px;
 }
 
+.main-section {
+    background-color: #e5e5e5;
+}
+
 .navbar {
     background-color: #a0d4f5;
+    margin-bottom: 10px;
 }
 
 .dropdown-toggle {
@@ -19,3 +24,24 @@
 .dropdown:hover .dropdown-menu {
     display: block;
  }
+
+.navbar-icons {
+    background-color: #a0d4f5;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+ .navbar-icon {
+     text-align: center;
+ }
+
+ .footer {
+     background-color: #a0d4f5;
+ }
+
+.gi-2x{font-size: 2em;}
+.gi-3x{font-size: 3em;}
+.gi-4x{font-size: 4em;}
+.gi-5x{font-size: 5em;}
+.gi-6x{font-size: 6em;}
