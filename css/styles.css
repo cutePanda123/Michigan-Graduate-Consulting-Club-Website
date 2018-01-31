@@ -23,7 +23,7 @@
 
 .dropdown:hover .dropdown-menu {
     display: block;
- }
+}
 
 .navbar-icons {
     background-color: #a0d4f5;
@@ -32,13 +32,18 @@
     margin-left: 0;
 }
 
- .navbar-icon {
+.navbar-icon {
      text-align: center;
- }
+}
 
- .footer {
+.footer {
      background-color: #a0d4f5;
- }
+}
+
+.join-us-btn {
+    background-color: #44c767;
+    border-color: #44c767;
+}
 
 .gi-2x{font-size: 2em;}
 .gi-3x{font-size: 3em;}
