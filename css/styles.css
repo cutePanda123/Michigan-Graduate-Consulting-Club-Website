@@ -45,6 +45,14 @@
     border-color: #44c767;
 }
 
+.case-competition-ranking {
+    color: #005e8a;
+}
+
+.sponsor-logo {
+    display: block;
+}
+
 .gi-2x{font-size: 2em;}
 .gi-3x{font-size: 3em;}
 .gi-4x{font-size: 4em;}
